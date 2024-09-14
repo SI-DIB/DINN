@@ -1,7 +1,6 @@
 # DINN
 Distribution-Informed Neural Network (DINN) for Battery Degradation Modeling: A novel hybrid model combining Weibull distribution with Physics-Informed Neural Networks for accurate Remaining Useful Life (RUL) and State of Health (SOH) prediction of Lithium-ion batteries.
 
-# DINN
 ## Installation To run the DINN model, follow these steps: 
 1. Clone the repository:
     `git clone https://github.com/your-username/DINN.git`
